@@ -1,0 +1,41 @@
+[ {
+  "uid" : "e6e9011f93de9652",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1594628151531,
+    "stop" : 1594628153612,
+    "duration" : 2081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b641cbdbba3ebc0f",
+  "name" : "test_mp_pub_art[我要出去找工作,找个好工作-授课专用]",
+  "time" : {
+    "start" : 1594628134994,
+    "stop" : 1594628149526,
+    "duration" : 14532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22d1e008a5ed55df",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1594628121264,
+    "stop" : 1594628121264,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d86596bc038e0381",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1594628132374,
+    "stop" : 1594628132987,
+    "duration" : 613
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

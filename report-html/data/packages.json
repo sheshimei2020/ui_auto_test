@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "script.mp",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "22d1e008a5ed55df",
+        "parentUid" : "2a811d51f4ecd9465c8ee71dec5d3ba0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594628121264,
+          "stop" : 1594628121264,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2a811d51f4ecd9465c8ee71dec5d3ba0"
+    }, {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "test_mp_login",
+        "uid" : "d86596bc038e0381",
+        "parentUid" : "2cfb12f4dc533a896f700452e4e44c15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594628132374,
+          "stop" : 1594628132987,
+          "duration" : 613
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2cfb12f4dc533a896f700452e4e44c15"
+    }, {
+      "name" : "test_pub_artical",
+      "children" : [ {
+        "name" : "test_mp_pub_art[我要出去找工作,找个好工作-授课专用]",
+        "uid" : "b641cbdbba3ebc0f",
+        "parentUid" : "057bcfd103f0345479824f721ba33c44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594628134994,
+          "stop" : 1594628149526,
+          "duration" : 14532
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'我要出去找工作,找个好工作'", "'授课专用'" ]
+      } ],
+      "uid" : "057bcfd103f0345479824f721ba33c44"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "test_end",
+        "uid" : "e6e9011f93de9652",
+        "parentUid" : "8e7ccb4fa3384c13af2ce1d635c71977",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594628151531,
+          "stop" : 1594628153612,
+          "duration" : 2081
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8e7ccb4fa3384c13af2ce1d635c71977"
+    } ],
+    "uid" : "script.mp"
+  } ]
+}

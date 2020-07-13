@@ -1,0 +1,95 @@
+{
+  "uid" : "b641cbdbba3ebc0f",
+  "name" : "test_mp_pub_art[我要出去找工作,找个好工作-授课专用]",
+  "fullName" : "script.mp.test_pub_artical.TestMpPubArt#test_mp_pub_art",
+  "historyId" : "1756678322e19b985d10b40e301f084d",
+  "time" : {
+    "start" : 1594628134994,
+    "stop" : 1594628149526,
+    "duration" : 14532
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1594628134993,
+      "stop" : 1594628134993,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1594628149529,
+      "stop" : 1594628151529,
+      "duration" : 2000
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_artical"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMpPubArt"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7T8AAOO9"
+  }, {
+    "name" : "thread",
+    "value" : "21560-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.mp.test_pub_artical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "art_content",
+    "value" : "'我要出去找工作,找个好工作'"
+  }, {
+    "name" : "channel_name",
+    "value" : "'授课专用'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "b641cbdbba3ebc0f.json",
+  "parameterValues" : [ "'我要出去找工作,找个好工作'", "'授课专用'" ]
+}

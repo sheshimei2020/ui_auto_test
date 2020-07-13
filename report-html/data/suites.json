@@ -1,0 +1,93 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "script.mp",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "22d1e008a5ed55df",
+          "parentUid" : "47ef9e895366500439c84a90c5ef6123",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594628121264,
+            "stop" : 1594628121264,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "47ef9e895366500439c84a90c5ef6123"
+      } ],
+      "uid" : "05f095dd8b150e060e1979fab3e9b670"
+    }, {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "d86596bc038e0381",
+          "parentUid" : "eea52146f37a8fb0809cc239b62875f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594628132374,
+            "stop" : 1594628132987,
+            "duration" : 613
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eea52146f37a8fb0809cc239b62875f5"
+      } ],
+      "uid" : "7f744f7c208107c274c7ab68e55efef2"
+    }, {
+      "name" : "test_pub_artical",
+      "children" : [ {
+        "name" : "TestMpPubArt",
+        "children" : [ {
+          "name" : "test_mp_pub_art[我要出去找工作,找个好工作-授课专用]",
+          "uid" : "b641cbdbba3ebc0f",
+          "parentUid" : "5194ac34e2bcda20374da61c03d30f93",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594628134994,
+            "stop" : 1594628149526,
+            "duration" : 14532
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'我要出去找工作,找个好工作'", "'授课专用'" ]
+        } ],
+        "uid" : "5194ac34e2bcda20374da61c03d30f93"
+      } ],
+      "uid" : "2bb20231fd20bd6a894a0ae32a7bcdd0"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "e6e9011f93de9652",
+          "parentUid" : "3e245cf9348391ee723026238f6e2987",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594628151531,
+            "stop" : 1594628153612,
+            "duration" : 2081
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3e245cf9348391ee723026238f6e2987"
+      } ],
+      "uid" : "8ed1bf03d9c3c643157df27f6060db3f"
+    } ],
+    "uid" : "cd8b78fe08035ce763ad13a0bedada06"
+  } ]
+}

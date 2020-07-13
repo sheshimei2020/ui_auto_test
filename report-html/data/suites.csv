@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 13 16:15:32 CST 2020","Mon Jul 13 16:15:32 CST 2020","613","script.mp","test_login","TestMpLogin","","","test_mp_login",""
+"passed","Mon Jul 13 16:15:34 CST 2020","Mon Jul 13 16:15:49 CST 2020","14532","script.mp","test_pub_artical","TestMpPubArt","","","test_mp_pub_art[我要出去找工作,找个好工作-授课专用]",""
+"passed","Mon Jul 13 16:15:51 CST 2020","Mon Jul 13 16:15:53 CST 2020","2081","script.mp","test_end","TestEnd","","","test_end",""
+"passed","Mon Jul 13 16:15:21 CST 2020","Mon Jul 13 16:15:21 CST 2020","0","script.mp","test_begin","TestBegin","","","test_begin",""

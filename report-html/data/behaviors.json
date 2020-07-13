@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_begin",
+    "uid" : "22d1e008a5ed55df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1594628121264,
+      "stop" : 1594628121264,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_mp_login",
+    "uid" : "d86596bc038e0381",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1594628132374,
+      "stop" : 1594628132987,
+      "duration" : 613
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_mp_pub_art[我要出去找工作,找个好工作-授课专用]",
+    "uid" : "b641cbdbba3ebc0f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1594628134994,
+      "stop" : 1594628149526,
+      "duration" : 14532
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'我要出去找工作,找个好工作'", "'授课专用'" ]
+  }, {
+    "name" : "test_end",
+    "uid" : "e6e9011f93de9652",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1594628151531,
+      "stop" : 1594628153612,
+      "duration" : 2081
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
